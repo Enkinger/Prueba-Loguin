@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginJava</string>
+    <string name="user">Usuario</string>
+</resources>
